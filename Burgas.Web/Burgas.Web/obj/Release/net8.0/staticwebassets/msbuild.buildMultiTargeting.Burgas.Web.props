@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Burgas.Web.props" />
+</Project>
