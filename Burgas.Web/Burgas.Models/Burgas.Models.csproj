@@ -10,12 +10,4 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.8" />
   </ItemGroup>
 
-  <ItemGroup>
-    <EditorConfigFiles Remove="C:\Users\beker\OneDrive\Escritorio\BurgasRepo\BurgasRepo\Burgas.Web\Burgas.Models\.editorconfig" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="C:\Users\beker\OneDrive\Escritorio\BurgasRepo\BurgasRepo\Burgas.Web\Burgas.Models\.editorconfig" />
-  </ItemGroup>
-
 </Project>
